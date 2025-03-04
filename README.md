@@ -1,12 +1,12 @@
 # concordia_contest_neurips
 
-## Agent description
+# Agent description
 
 This agent structure is specifically designed to handle complex social interactions within the Concordia framework, with a strong emphasis on negotiation, reputation management, and strategic decision-making while maintaining a memory of past interactions and observations.
 
 The code follows a modular design pattern where each component handles a specific aspect of the agent's functionality, all orchestrated through the main build_agent function. This design allows for flexibility in agent behavior while maintaining a structured approach to decision-making and interaction.
 
-Build Function Structure:
+## Build Function Structure:
 
 
 The main function build_agent() takes several key parameters:
@@ -20,7 +20,7 @@ update_time_interval: Timing for agent updates
 
 
 
-Core Agent Components:
+## Core Agent Components:
 
 
 Instructions: Handles basic agent directives
@@ -34,7 +34,7 @@ Relevant Memories (retrieves 10 most relevant memories)
 
 
 
-Specialized Negotiation Components:
+## Specialized Negotiation Components:
 
 a) Paranoia/Truth Component:
 
@@ -64,7 +64,7 @@ Tracks history of cooperative behavior
 Maintains reputation assessments
 
 
-Decision Making Components:
+## Decision Making Components:
 
 a) Options Perception:
 
@@ -79,7 +79,7 @@ Considers goals and context
 Integrates multiple information streams
 
 
-Component Organization:
+## Component Organization:
 
 
 Uses ordered component structure
@@ -87,7 +87,7 @@ Maintains clear separation of concerns
 Allows for optional components (like goals)
 
 
-Logging System:
+## Logging System:
 
 
 Comprehensive measurement tracking
