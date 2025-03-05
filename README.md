@@ -1,3 +1,10 @@
+[![GitHub license](https://img.shields.io/github/license/SoyGema/concordia_contest_neurips_2024)](https://github.com/SoyGema/concordia_contest_neurips_2024/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/SoyGema/concordia_contest_neurips_2024)](https://github.com/SoyGema/concordia_contest_neurips_2024/issues)
+[![GitHub stars](https://img.shields.io/github/stars/SoyGema/concordia_contest_neurips_2024)](https://github.com/SoyGema/concordia_contest_neurips_2024/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/SoyGema/concordia_contest_neurips_2024)](https://github.com/SoyGema/concordia_contest_neurips_2024/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/SoyGema/concordia_contest_neurips_2024)](https://github.com/SoyGema/concordia_contest_neurips_2024/graphs/contributors)
+[![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FSoyGema%2Fconcordia_contest_neurips_2024)](https://twitter.com/intent/tweet?text=Check%20out%20this%20repo!%20&url=https://github.com/SoyGema/concordia_contest_neurips_2024)
+
 # concordia_contest_neurips
 
 # Agent description
