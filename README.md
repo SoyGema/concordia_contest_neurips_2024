@@ -11,7 +11,7 @@
 
 # Concordia Contest Neurips 2024
 
-This contest challenges participants to advance the cooperative intelligence of language model (LM) agents in rich, text-based environments, based on the recently released Concordia framework which uses language models to create open-ended worlds similar to tabletop role-playing games.
+This [contest](https://www.cooperativeai.com/contests/concordia-2024) challenges participants to advance the cooperative intelligence of language model (LM) agents in rich, text-based environments, based on the recently released Concordia framework which uses language models to create open-ended worlds similar to tabletop role-playing games.
 
 
 
