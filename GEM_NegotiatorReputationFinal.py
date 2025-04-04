@@ -1,4 +1,4 @@
-"""the negotiator v2 agent.
+"""the final agent submitted to the leaderboard.
 Adds the reputation component to the agent.
 Simplifies the prompt for gemma models
 
